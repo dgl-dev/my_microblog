@@ -1,0 +1,5 @@
+#
+# # Startup
+#
+export FLASK_APP=my_microblog.py
+flask run
